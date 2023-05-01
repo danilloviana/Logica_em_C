@@ -1,4 +1,5 @@
-﻿//Algoritmo para calcular a área de uma sala
+﻿/*Faça o algoritmo (diagrama de blocos e português estruturado) para calcular a área (AREA) de uma sala, sendo que os comprimentos das paredes (L e C) são fornecidos pelo usuário. Apresente a área depois de calculada.*/
+//Algoritmo para calcular a área de uma sala
 using System;
 
 namespace CalcularAreaSala
