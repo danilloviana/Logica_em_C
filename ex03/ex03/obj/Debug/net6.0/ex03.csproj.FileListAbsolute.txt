@@ -1,0 +1,15 @@
+E:\Cursos\UDEMY CURSOS\ESTUDO_BRABO\logica_emC#\ex03\ex03\bin\Debug\net6.0\ex03.exe
+E:\Cursos\UDEMY CURSOS\ESTUDO_BRABO\logica_emC#\ex03\ex03\bin\Debug\net6.0\ex03.deps.json
+E:\Cursos\UDEMY CURSOS\ESTUDO_BRABO\logica_emC#\ex03\ex03\bin\Debug\net6.0\ex03.runtimeconfig.json
+E:\Cursos\UDEMY CURSOS\ESTUDO_BRABO\logica_emC#\ex03\ex03\bin\Debug\net6.0\ex03.dll
+E:\Cursos\UDEMY CURSOS\ESTUDO_BRABO\logica_emC#\ex03\ex03\bin\Debug\net6.0\ex03.pdb
+E:\Cursos\UDEMY CURSOS\ESTUDO_BRABO\logica_emC#\ex03\ex03\obj\Debug\net6.0\ex03.csproj.AssemblyReference.cache
+E:\Cursos\UDEMY CURSOS\ESTUDO_BRABO\logica_emC#\ex03\ex03\obj\Debug\net6.0\ex03.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cursos\UDEMY CURSOS\ESTUDO_BRABO\logica_emC#\ex03\ex03\obj\Debug\net6.0\ex03.AssemblyInfoInputs.cache
+E:\Cursos\UDEMY CURSOS\ESTUDO_BRABO\logica_emC#\ex03\ex03\obj\Debug\net6.0\ex03.AssemblyInfo.cs
+E:\Cursos\UDEMY CURSOS\ESTUDO_BRABO\logica_emC#\ex03\ex03\obj\Debug\net6.0\ex03.csproj.CoreCompileInputs.cache
+E:\Cursos\UDEMY CURSOS\ESTUDO_BRABO\logica_emC#\ex03\ex03\obj\Debug\net6.0\ex03.dll
+E:\Cursos\UDEMY CURSOS\ESTUDO_BRABO\logica_emC#\ex03\ex03\obj\Debug\net6.0\refint\ex03.dll
+E:\Cursos\UDEMY CURSOS\ESTUDO_BRABO\logica_emC#\ex03\ex03\obj\Debug\net6.0\ex03.pdb
+E:\Cursos\UDEMY CURSOS\ESTUDO_BRABO\logica_emC#\ex03\ex03\obj\Debug\net6.0\ex03.genruntimeconfig.cache
+E:\Cursos\UDEMY CURSOS\ESTUDO_BRABO\logica_emC#\ex03\ex03\obj\Debug\net6.0\ref\ex03.dll
