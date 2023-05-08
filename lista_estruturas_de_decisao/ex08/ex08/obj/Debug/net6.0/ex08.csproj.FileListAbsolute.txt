@@ -1,5 +1,0 @@
-E:\Cursos\UDEMY CURSOS\ESTUDO_BRABO\logica_emC#\lista_estruturas_de_decisao\ex08\ex08\obj\Debug\net6.0\ex08.csproj.AssemblyReference.cache
-E:\Cursos\UDEMY CURSOS\ESTUDO_BRABO\logica_emC#\lista_estruturas_de_decisao\ex08\ex08\obj\Debug\net6.0\ex08.GeneratedMSBuildEditorConfig.editorconfig
-E:\Cursos\UDEMY CURSOS\ESTUDO_BRABO\logica_emC#\lista_estruturas_de_decisao\ex08\ex08\obj\Debug\net6.0\ex08.AssemblyInfoInputs.cache
-E:\Cursos\UDEMY CURSOS\ESTUDO_BRABO\logica_emC#\lista_estruturas_de_decisao\ex08\ex08\obj\Debug\net6.0\ex08.AssemblyInfo.cs
-E:\Cursos\UDEMY CURSOS\ESTUDO_BRABO\logica_emC#\lista_estruturas_de_decisao\ex08\ex08\obj\Debug\net6.0\ex08.csproj.CoreCompileInputs.cache
