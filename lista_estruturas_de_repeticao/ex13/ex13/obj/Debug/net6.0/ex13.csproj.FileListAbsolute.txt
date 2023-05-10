@@ -1,0 +1,15 @@
+E:\Cursos\UDEMY CURSOS\ESTUDO_BRABO\logica_emC#\lista_estruturas_de_repeticao\ex13\ex13\bin\Debug\net6.0\ex13.exe
+E:\Cursos\UDEMY CURSOS\ESTUDO_BRABO\logica_emC#\lista_estruturas_de_repeticao\ex13\ex13\bin\Debug\net6.0\ex13.deps.json
+E:\Cursos\UDEMY CURSOS\ESTUDO_BRABO\logica_emC#\lista_estruturas_de_repeticao\ex13\ex13\bin\Debug\net6.0\ex13.runtimeconfig.json
+E:\Cursos\UDEMY CURSOS\ESTUDO_BRABO\logica_emC#\lista_estruturas_de_repeticao\ex13\ex13\bin\Debug\net6.0\ex13.dll
+E:\Cursos\UDEMY CURSOS\ESTUDO_BRABO\logica_emC#\lista_estruturas_de_repeticao\ex13\ex13\bin\Debug\net6.0\ex13.pdb
+E:\Cursos\UDEMY CURSOS\ESTUDO_BRABO\logica_emC#\lista_estruturas_de_repeticao\ex13\ex13\obj\Debug\net6.0\ex13.csproj.AssemblyReference.cache
+E:\Cursos\UDEMY CURSOS\ESTUDO_BRABO\logica_emC#\lista_estruturas_de_repeticao\ex13\ex13\obj\Debug\net6.0\ex13.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cursos\UDEMY CURSOS\ESTUDO_BRABO\logica_emC#\lista_estruturas_de_repeticao\ex13\ex13\obj\Debug\net6.0\ex13.AssemblyInfoInputs.cache
+E:\Cursos\UDEMY CURSOS\ESTUDO_BRABO\logica_emC#\lista_estruturas_de_repeticao\ex13\ex13\obj\Debug\net6.0\ex13.AssemblyInfo.cs
+E:\Cursos\UDEMY CURSOS\ESTUDO_BRABO\logica_emC#\lista_estruturas_de_repeticao\ex13\ex13\obj\Debug\net6.0\ex13.csproj.CoreCompileInputs.cache
+E:\Cursos\UDEMY CURSOS\ESTUDO_BRABO\logica_emC#\lista_estruturas_de_repeticao\ex13\ex13\obj\Debug\net6.0\ex13.dll
+E:\Cursos\UDEMY CURSOS\ESTUDO_BRABO\logica_emC#\lista_estruturas_de_repeticao\ex13\ex13\obj\Debug\net6.0\refint\ex13.dll
+E:\Cursos\UDEMY CURSOS\ESTUDO_BRABO\logica_emC#\lista_estruturas_de_repeticao\ex13\ex13\obj\Debug\net6.0\ex13.pdb
+E:\Cursos\UDEMY CURSOS\ESTUDO_BRABO\logica_emC#\lista_estruturas_de_repeticao\ex13\ex13\obj\Debug\net6.0\ex13.genruntimeconfig.cache
+E:\Cursos\UDEMY CURSOS\ESTUDO_BRABO\logica_emC#\lista_estruturas_de_repeticao\ex13\ex13\obj\Debug\net6.0\ref\ex13.dll
