@@ -1,0 +1,15 @@
+E:\Cursos\UDEMY CURSOS\ESTUDO_BRABO\logica_emC#\lista_vetores_e_matrizes\ex02\ex02\bin\Debug\net6.0\ex02.exe
+E:\Cursos\UDEMY CURSOS\ESTUDO_BRABO\logica_emC#\lista_vetores_e_matrizes\ex02\ex02\bin\Debug\net6.0\ex02.deps.json
+E:\Cursos\UDEMY CURSOS\ESTUDO_BRABO\logica_emC#\lista_vetores_e_matrizes\ex02\ex02\bin\Debug\net6.0\ex02.runtimeconfig.json
+E:\Cursos\UDEMY CURSOS\ESTUDO_BRABO\logica_emC#\lista_vetores_e_matrizes\ex02\ex02\bin\Debug\net6.0\ex02.dll
+E:\Cursos\UDEMY CURSOS\ESTUDO_BRABO\logica_emC#\lista_vetores_e_matrizes\ex02\ex02\bin\Debug\net6.0\ex02.pdb
+E:\Cursos\UDEMY CURSOS\ESTUDO_BRABO\logica_emC#\lista_vetores_e_matrizes\ex02\ex02\obj\Debug\net6.0\ex02.csproj.AssemblyReference.cache
+E:\Cursos\UDEMY CURSOS\ESTUDO_BRABO\logica_emC#\lista_vetores_e_matrizes\ex02\ex02\obj\Debug\net6.0\ex02.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cursos\UDEMY CURSOS\ESTUDO_BRABO\logica_emC#\lista_vetores_e_matrizes\ex02\ex02\obj\Debug\net6.0\ex02.AssemblyInfoInputs.cache
+E:\Cursos\UDEMY CURSOS\ESTUDO_BRABO\logica_emC#\lista_vetores_e_matrizes\ex02\ex02\obj\Debug\net6.0\ex02.AssemblyInfo.cs
+E:\Cursos\UDEMY CURSOS\ESTUDO_BRABO\logica_emC#\lista_vetores_e_matrizes\ex02\ex02\obj\Debug\net6.0\ex02.csproj.CoreCompileInputs.cache
+E:\Cursos\UDEMY CURSOS\ESTUDO_BRABO\logica_emC#\lista_vetores_e_matrizes\ex02\ex02\obj\Debug\net6.0\ex02.dll
+E:\Cursos\UDEMY CURSOS\ESTUDO_BRABO\logica_emC#\lista_vetores_e_matrizes\ex02\ex02\obj\Debug\net6.0\refint\ex02.dll
+E:\Cursos\UDEMY CURSOS\ESTUDO_BRABO\logica_emC#\lista_vetores_e_matrizes\ex02\ex02\obj\Debug\net6.0\ex02.pdb
+E:\Cursos\UDEMY CURSOS\ESTUDO_BRABO\logica_emC#\lista_vetores_e_matrizes\ex02\ex02\obj\Debug\net6.0\ex02.genruntimeconfig.cache
+E:\Cursos\UDEMY CURSOS\ESTUDO_BRABO\logica_emC#\lista_vetores_e_matrizes\ex02\ex02\obj\Debug\net6.0\ref\ex02.dll
